@@ -6,7 +6,7 @@
 
 body {
     display: grid;
-    grid-template-rows: 80px 500px 190px;
+    grid-template-rows: 20% 50% 30%;
 }
 
 .nav {
